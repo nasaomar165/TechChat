@@ -1,6 +1,5 @@
 # TechChat
-
-
+simple group chat with auth using GetStream.io and Twilio
 
 ## Run Locally
 
